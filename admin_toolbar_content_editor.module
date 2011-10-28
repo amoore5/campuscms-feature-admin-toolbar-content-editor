@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Admin Toolbar - Content Editor feature.
+ */
+
+include_once('admin_toolbar_content_editor.features.inc');
