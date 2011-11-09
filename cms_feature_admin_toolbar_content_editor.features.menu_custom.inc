@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * admin_toolbar_content_editor.features.menu_custom.inc
+ * cms_feature_admin_toolbar_content_editor.features.menu_custom.inc
  */
 
 /**
  * Implements hook_menu_default_menu_custom().
  */
-function admin_toolbar_content_editor_menu_default_menu_custom() {
+function cms_feature_admin_toolbar_content_editor_menu_default_menu_custom() {
   $menus = array();
 
   // Exported menu: menu-toolbar-content-editor
